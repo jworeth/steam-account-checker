@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="steam_checker">
+</Property><Property Name="Solution File" Value="C:\Users\Joseph\Desktop\steam_checker\steam_checker.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Joseph\Desktop\steam_checker\steam_checker.suo">
+</Property><Property Name="Date" Value="Sunday, January 09, 2011">
+</Property><Property Name="Time" Value="1:23 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="steam_checker.sln" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\steam_checker.sln">
+</Event><Event ErrorLevel="0" Project="" Source="steam_checker.suo" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\steam_checker.suo">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="steam_checker.csproj" Description="Project file successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\steam_checker.csproj">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="steam_checker.csproj.user" Description="Project user file successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\steam_checker.csproj.user">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Main.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Main.Designer.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Program.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Splash.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Splash.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Splash.Designer.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Splash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="steam.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\steam.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="_threading.cs" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\_threading.cs">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Main.resx" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="Splash.resx" Description="File successfully backed up as C:\Users\Joseph\Desktop\steam_checker\Backup\Splash.resx">
+</Event><Event ErrorLevel="0" Project="steam_checker" Source="steam_checker.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="steam_checker" Source="steam_checker.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="steam_checker.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="steam_checker.sln" Description="Converted">
+</Event></UpgradeLog>
